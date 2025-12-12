@@ -1,0 +1,7 @@
+{
+  "name": "LaundryTracker",
+  "description": "AI-powered commercial laundry batch processing and billing tracker.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
